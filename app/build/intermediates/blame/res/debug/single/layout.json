@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cindex.xml",
+        "source": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\src\\main\\res\\layout\\cindex.xml"
+    }
+]
