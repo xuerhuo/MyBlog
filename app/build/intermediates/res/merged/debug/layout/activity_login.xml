@@ -37,7 +37,7 @@
             android:id="@+id/password"
             android:layout_below="@id/username"
             android:hint="@string/password"
-            android:text="daydayup"
+            android:text=""
             android:background="@color/logintext"
             android:inputType="textPassword"
             android:paddingLeft="10dp"

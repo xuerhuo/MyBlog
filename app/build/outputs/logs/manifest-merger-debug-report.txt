@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:2:1-61:12
 	package
 		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml
@@ -26,62 +26,84 @@ ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:7
 		INJECTED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml
 		INJECTED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:10:5-66
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:14:22-77
 application
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:11:5-39:19
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:16:5-59:19
 	android:label
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:19:9-41
 	android:allowBackup
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:17:9-35
 	android:icon
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:13:9-38
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:18:9-38
 	android:theme
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:15:9-40
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:20:9-40
 activity#org.erhuo.myblog.controller.SplashActivity
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:16:9-23:20
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:21:9-29:20
 	android:label
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:18:13-45
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:23:13-45
 	android:name
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:17:13-70
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:19:13-22:29
-action#android.intent.action.MAIN
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:20:17-69
-	android:name
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:20:25-66
-category#android.intent.category.LAUNCHER
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:21:17-77
-	android:name
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:22:13-54
 activity#org.erhuo.myblog.controller.LoginActivity
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:24:11-27:20
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:30:9-32:46
 	android:label
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:26:13-34
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:32:13-34
 	android:name
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:25:13-69
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:31:13-53
 activity#org.erhuo.myblog.controller.CindexActivity
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:28:9-72
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:33:9-63
 	android:name
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:28:19-60
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:33:19-60
 receiver#org.erhuo.myblog.controller.MyReceiver
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:29:9-33:20
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:35:9-39:20
 	android:name
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:29:19-56
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:35:19-56
 intent-filter#sendbroadcast
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:30:13-32:29
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:36:13-38:29
 action#sendbroadcast
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:31:17-63
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:37:17-56
 	android:name
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:31:25-53
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:37:25-53
 service#org.erhuo.myblog.controller.MyService
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:34:9-38:19
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:41:9-45:19
 	android:name
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:34:18-54
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:41:18-54
 intent-filter#MyService
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:35:13-37:29
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:42:13-44:29
 action#MyService
-ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:36:17-59
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:43:17-52
 	android:name
-		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:36:25-49
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:43:25-49
+activity#org.erhuo.myblog.controller.FirstloadActivity
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:47:9-58:20
+	android:label
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:50:13-61
+	android:configChanges
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:49:13-74
+	android:theme
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:51:13-51
+	android:name
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:48:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from G:\phpstorm\androidproject\MyBlog2\app\src\main\AndroidManifest.xml:55:27-74

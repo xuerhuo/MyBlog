@@ -19,7 +19,7 @@ android {
 }
 
 dependencies {
+    compile files('src/main/java/org/erhuo/myblog/lib/json-20151123.jar')
     compile 'com.android.support:support-v4:19.1.0'
     compile 'org.jetbrains:annotations-java5:15.0'
-    compile files('src/main/java/org/erhuo/myblog/lib/json-20151123.jar')
 }
