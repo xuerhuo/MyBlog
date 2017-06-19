@@ -1,18 +1,110 @@
 [
     {
-        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_firstload.xml",
-        "source": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\src\\main\\res\\layout\\activity_firstload.xml"
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
         "source": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
         "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cindex.xml",
         "source": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\src\\main\\res\\layout\\cindex.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logined_index.xml",
+        "source": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\src\\main\\res\\layout\\activity_logined_index.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_firstload.xml",
+        "source": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\src\\main\\res\\layout\\activity_firstload.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     }
 ]

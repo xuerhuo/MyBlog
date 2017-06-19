@@ -2,5 +2,29 @@
     {
         "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\start_opacity.xml",
         "source": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\src\\main\\res\\anim\\start_opacity.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\phpstorm\\androidproject\\MyBlog2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\erhuo\\.android\\build-cache\\0a21f8317e1a1c9bc50dbafe6507f8f1f48a4608\\output\\res\\anim\\abc_slide_in_bottom.xml"
     }
 ]

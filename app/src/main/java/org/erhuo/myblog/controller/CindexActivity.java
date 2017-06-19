@@ -12,6 +12,7 @@ import org.erhuo.myblog.R;
 
 /**
  * Created by erhuo on 2017/4/25.
+ * 课堂练习
  */
 
 public class CindexActivity extends Activity implements View.OnClickListener{

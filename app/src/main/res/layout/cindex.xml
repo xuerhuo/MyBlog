@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent">
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="107dp"
+        android:layout_marginEnd="67dp"
         android:text="sendBroadcast"
         android:layout_alignBaseline="@+id/startservice"
         android:layout_alignBottom="@+id/startservice"
@@ -17,10 +18,10 @@
         android:id="@+id/startservice"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:text="startservice"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="12dp"
-        android:layout_toStartOf="@+id/button2"
-        android:text="startservice" />
+        android:layout_alignStart="@+id/stopservice" />
 
     <Button
         android:id="@+id/stopservice"
@@ -31,4 +32,7 @@
         android:layout_marginTop="32dp"
         android:layout_toStartOf="@+id/button2"
         android:text="stopservice" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 </RelativeLayout>
